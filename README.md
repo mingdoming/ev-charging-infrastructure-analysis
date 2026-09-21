@@ -105,7 +105,7 @@ The difference between predicted and actual charger counts was calculated as:
 Gap = Predicted Chargers - Actual Chargers
 
 A positive gap indicates that the predicted infrastructure demand exceeds the current installation level.
-
+```
 ### Policy Priority Score
 
 A policy priority score was calculated using three standardized components:
